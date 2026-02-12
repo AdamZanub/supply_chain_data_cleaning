@@ -1,7 +1,7 @@
 # supply_chain_data_cleaning (Excel)
 Data cleaning and validation of raw shipment data, ensuring consistency, completeness, uniqueness, and analytical readiness.
 
-## Data Source:
+## Data Source
 This dataset was generated using AI for educational purposes, specifically to demonstrate data cleaning and preparation techniques.
 
 ## Overview
